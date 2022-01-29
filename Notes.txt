@@ -1,0 +1,10 @@
+---Testing url-need to install .exe file from onedrive(Softwares/projects/orangehrm.exe-2.6)
+admin/admin
+http://127.0.0.1/orangehrm-2.6/login.php
+---Live url : access from internet
+https://opensource-demo.orangehrmlive.com/
+---Testing url-need to install .exe file from onedrive(Softwares/projects/orangehrm.exe-2.6)
+admin/admin
+http://127.0.0.1/orangehrm-2.6/login.php
+---Live url : access from internet
+https://opensource-demo.orangehrmlive.com/
